@@ -1,5 +1,3 @@
-import React from "react";
-
 export const TabletFooter = (): JSX.Element => {
   return (
     <footer className="bg-gray-900 text-white px-6 py-16">

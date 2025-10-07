@@ -1,5 +1,3 @@
-import React from "react";
-
 export const MobileHero = (): JSX.Element => {
   return (
     <section className="pt-16 px-4 py-12 bg-gradient-to-b from-gray-50 to-white">

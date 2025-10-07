@@ -1,4 +1,3 @@
-import React from "react";
 import { TabletHeader } from "../components/tablet/TabletHeader";
 import { TabletHero } from "../components/tablet/TabletHero";
 import { TabletFeatures } from "../components/tablet/TabletFeatures";

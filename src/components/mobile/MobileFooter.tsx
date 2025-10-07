@@ -1,5 +1,3 @@
-import React from "react";
-
 export const MobileFooter = (): JSX.Element => {
   return (
     <footer className="bg-gray-900 text-white px-4 py-12">

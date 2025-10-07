@@ -1,5 +1,3 @@
-import React from "react";
-import { HeaderSection } from "../../HeaderSection";
 import { FeaturesOverviewSection } from "../../FeaturesOverview";
 import { ServicesSection } from "../../ServicesSection";
 import { CallToActionSection } from "../../CallToActionSection";

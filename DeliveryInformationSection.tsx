@@ -1,5 +1,3 @@
-import React from "react";
-
 export const DeliveryInformationSection = (): JSX.Element => {
   return (
     <p className="absolute top-[432px] left-[calc(50.00%_-_351px)] w-[708px] [font-family:'DM_Sans-Medium',Helvetica] font-normal text-white text-lg text-center tracking-[0] leading-6">

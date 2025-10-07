@@ -1,5 +1,3 @@
-import React from "react";
-
 export const HeaderSection = (): JSX.Element => {
   return (
     <header className="absolute top-0 left-0 w-full h-[120px] z-50">

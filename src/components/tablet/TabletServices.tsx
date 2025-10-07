@@ -1,5 +1,3 @@
-import React from "react";
-
 export const TabletServices = (): JSX.Element => {
   return (
     <section className="px-6 py-20 bg-gray-50">

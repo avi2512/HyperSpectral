@@ -1,5 +1,4 @@
-import React, { useState } from "react";
-
+import { useState } from "react";
 export const TabletHeader = (): JSX.Element => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
 

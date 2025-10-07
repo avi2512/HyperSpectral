@@ -1,5 +1,3 @@
-import React from "react";
-
 export const MobileServices = (): JSX.Element => {
   return (
     <section className="px-4 py-16 bg-gray-50">

@@ -1,5 +1,3 @@
-import React from "react";
-
 interface MobileFeatureCard {
   icon: string;
   title: string;

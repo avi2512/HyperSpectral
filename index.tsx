@@ -1,4 +1,3 @@
-import React from "react";
 import { CallToActionSection } from "./CallToActionSection";
 import { DeliveryInformationSection } from "./DeliveryInformationSection";
 import { FeaturesOverviewSection } from "./FeaturesOverview";

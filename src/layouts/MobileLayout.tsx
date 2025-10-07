@@ -1,4 +1,3 @@
-import React from "react";
 import { MobileHeader } from "../components/mobile/MobileHeader";
 import { MobileHero } from "../components/mobile/MobileHero";
 import { MobileFeatures } from "../components/mobile/MobileFeatures";

@@ -1,5 +1,3 @@
-import React from "react";
-
 export const CallToActionSection = (): JSX.Element => {
   return (
     <section className="absolute top-[2812px] left-1/2 -translate-x-1/2 w-[1484px] h-[446px] flex items-center justify-center">

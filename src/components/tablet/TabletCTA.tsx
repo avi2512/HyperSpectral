@@ -1,5 +1,3 @@
-import React from "react";
-
 export const TabletCTA = (): JSX.Element => {
   return (
     <section className="px-6 py-20 bg-gradient-to-br from-purple-600 to-purple-900 text-white">

@@ -1,5 +1,3 @@
-import React from "react";
-
 export const MobileCTA = (): JSX.Element => {
   return (
     <section className="px-4 py-16 bg-gradient-to-br from-purple-600 to-purple-900 text-white">
